@@ -28,7 +28,8 @@
 ![DHCP проверка](pc-hr-dhcp-config.png)
 
 * **Изоляция:** Доступ из Маркетинга к HR ограничен.
-![Тест изоляции](vlan-isolation-ping-denied.png)
+![Тест изоляции]
+(vlan-isolation-ping-denied.png)
 
 * **Доступ к серверам:** Пользователи имеют доступ к внутренним ресурсам в VLAN 30.
 ![Доступ к серверу](vlan-30-connect.png)
